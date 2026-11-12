@@ -1,222 +1,216 @@
-
-<!-- ===================================================== -->
-<!--                 ADITYA CHAUHAN                         -->
-<!--             GITHUB PROFILE README                      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aditya%20Chauhan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20%7C%20Cloud%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=17" width="100%" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Backend+Systems" alt="Typing SVG" />
-</a>
+<img src="./assets/github-hero.png" alt="Aditya Chauhan — Java Backend, Spring Boot, DevOps and Cloud Engineer" width="100%" />
 
 <br/>
 
 <a href="https://github.com/adityachauhan564">
-  <img src="https://komarev.com/ghpvc/?username=adityachauhan564&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=adityachauhan564&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <a href="https://github.com/adityachauhan564?tab=followers">
-  <img src="https://img.shields.io/github/followers/adityachauhan564?label=Followers&style=for-the-badge&color=236ad3" />
+  <img src="https://img.shields.io/github/followers/adityachauhan564?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/adityachauhan564?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-Explore-0f9d8a?style=for-the-badge&logo=github" alt="Explore repositories"/>
 </a>
+
+### Java Backend Developer · Spring Boot · Microservices · AWS · DevOps
+
+*Building reliable backend services, event-driven systems and cloud-native applications.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hello! I'm **Aditya Chauhan**, a Java Backend Developer with **3 years and 7 months of experience** building and maintaining enterprise applications and backend systems.
+I'm **Aditya Chauhan**, a Java Backend Developer with **3 years and 7 months of professional experience**, including my time at **Tata Consultancy Services (TCS)**.
 
-I specialize in developing scalable backend applications using Java, Spring Boot, Microservices, and REST APIs.
+I build and maintain backend applications using Java, Spring Boot, REST APIs and microservices. My work and project experience also includes Kafka-based messaging, SQL performance tuning, automated testing, Docker and AWS deployment workflows.
 
-My engineering interests include backend architecture, distributed systems, cloud infrastructure, DevOps automation, and system design.
-
-- 💼 Previously worked at **Tata Consultancy Services (TCS)**.
-- ☕ Backend development using Java and Spring Boot.
-- 🔗 Building RESTful APIs and Microservices.
-- 📨 Event-driven architecture using Apache Kafka.
-- ☁️ Hands-on AWS infrastructure and cloud deployments.
-- 🐳 Containerization and CI/CD automation.
-- 🧪 Unit testing using JUnit and Mockito.
-- 🎯 Focused on writing clean, maintainable and production-ready code.
-
-**Currently interested in:** Backend Engineering | Distributed Systems | Cloud-Native Applications | DevOps.
+- **Backend:** Java, Spring Boot, REST APIs, Microservices, JPA/Hibernate
+- **Messaging:** Apache Kafka and event-driven integration
+- **Databases:** MySQL, PostgreSQL, Oracle, SQL/PL-SQL
+- **Cloud & DevOps:** AWS, Docker, ECS, ECR, CI/CD, GitHub Actions
+- **Engineering practices:** Unit testing, debugging, code quality and performance optimization
+- **Based in:** Noida, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### Backend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-</p>
+### Backend & Frameworks
 
-- Java, Spring Boot, Spring MVC
-- Spring Security, Spring Data JPA
-- REST APIs, Microservices
-- Hibernate, JPA
-- Apache Kafka
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
 
-### Database & Storage
+### APIs, Architecture & Messaging
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-</p>
+<img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Microservices"/>
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 
-- MySQL
-- PostgreSQL
-- Oracle Database
-- SQL / PL-SQL
-- Database Design & Query Optimization
+### Databases
 
-### DevOps & Cloud
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/SQL%20%2F%20PL--SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL and PL SQL"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux" />
-</p>
+### Cloud, DevOps & Tools
 
-- AWS: EC2, S3, ECS, ECR, RDS
-- Docker & Docker Compose
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- CI/CD Pipelines
-- CloudWatch, CloudFront, ALB
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
-### Development & Testing Tools
+### Testing
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode" />
-</p>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito"/>
+<img src="https://img.shields.io/badge/TestNG-FF7043?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG"/>
 
-- Git & GitHub
-- IntelliJ IDEA
-- Postman
-- JUnit 5
-- Mockito
-- Maven
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Showtime – Movie Ticket Booking System
+### 1. Paymesh — Event-Driven Digital Wallet Platform
 
-**Tech Stack:** Java | Spring Boot | Spring Data JPA | Kafka | MySQL | Docker
+**Java 21 · Spring Boot · Microservices · Apache Kafka · MySQL**
 
-A backend application designed to support movie ticket booking operations through REST APIs.
+A digital wallet platform being developed around independently deployable services and event-driven communication.
 
-**Key Features**
-- Designed and implemented 20+ REST APIs.
-- Backend architecture using Spring Boot.
-- Database persistence using Spring Data JPA.
-- Kafka-based event-driven integration.
-- Docker-based application containerization.
+**Implemented work**
+- Built wallet-related flows including sending money and retrieving wallet balance.
+- Implemented wallet-created notification flow.
+- Organized the backend into User, Wallet, Transaction and Notification services.
+- Uses Kafka for asynchronous service communication.
 
-### 2. Cyrako – Cloud-Native SaaS Deployment
+**Architecture direction**
+- Spring Cloud API Gateway and JWT-based security.
+- Event-driven transaction orchestration with compensating actions.
+- Containerized local development and deployment workflows.
 
-**Tech Stack:** AWS | Docker | ECS Fargate | PostgreSQL | ECR | S3 | CloudFront | GitHub Actions
+> Some architecture items above describe the planned direction; check the repository for the current implementation status.
 
-Hands-on cloud deployment and infrastructure implementation for a multi-tenant SaaS application.
-
-**Infrastructure & Engineering**
-- AWS VPC with public and private subnets.
-- ECS Fargate container deployment.
-- Docker image management using Amazon ECR.
-- PostgreSQL database hosted on Amazon RDS.
-- Application Load Balancer and ACM.
-- Route 53 domain management.
-- S3 and CloudFront for frontend delivery.
-- Secrets Manager and Parameter Store.
-- CloudWatch monitoring and database backups.
-- GitHub Actions CI/CD with OIDC authentication.
-
-### 3. Digital Library Management System
-
-**Tech Stack:** Java | Spring Boot | Spring Data JPA | MySQL
-
-A backend application for managing digital library resources.
-
-**Key Features**
-- REST API development.
-- Database integration using Spring Data JPA.
-- Optimized data retrieval.
-- Improved retrieval performance by 40%.
+**Repository:** Add the actual Paymesh repository URL here when published.
 
 ---
 
-## 📊 GitHub Analytics
+### 2. Showtime — Movie Ticket Booking System
+
+**Java · Spring Boot · Spring Data JPA · Kafka · MySQL · Docker**
+
+A backend system for movie discovery and ticket-booking workflows.
+
+- Designed and developed **20+ REST APIs**.
+- Built backend functionality using Spring Boot and Spring Data JPA.
+- Used MySQL for relational data persistence.
+- Included Kafka-based event-driven integration in the project architecture.
+- Used Docker for containerization.
+
+**Repository:** [SpringBoot_Projects](https://github.com/adityachauhan564/SpringBoot_Projects)  
+*Showtime is organized within this repository; see its project directory for the source.*
+
+---
+
+### 3. Digital Library Management System
+
+**Java · Spring Boot · Spring Data JPA · MySQL**
+
+A backend application for managing digital library resources and related records.
+
+- Developed REST-based backend functionality.
+- Integrated relational persistence using Spring Data JPA and MySQL.
+- Improved data retrieval performance by **40%**.
+
+**Repository:** Add the direct Digital Library repository or project-folder URL here.
+
+---
+
+## ☁️ Cloud & DevOps Experience
+
+Hands-on AWS deployment experience through a multi-tenant SaaS application:
+
+- VPC networking with public and private subnets.
+- Docker image builds and Amazon ECR.
+- ECS Fargate task and service deployment.
+- Application Load Balancer, ACM and Route 53.
+- Amazon RDS for PostgreSQL.
+- S3 and CloudFront for frontend delivery.
+- IAM roles, security groups and Secrets Manager / Parameter Store.
+- CloudWatch monitoring and database backups.
+- GitHub Actions CI/CD using OIDC authentication.
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityachauhan564&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachauhan564&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=adityachauhan564&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/adityachauhan564">
+  <img src="https://streak-stats.demolab.com?user=adityachauhan564&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="70%"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityachauhan564&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityachauhan564&bg_color=0d1117&color=79c0ff&line=8957e5&point=ffffff&area=true&hide_border=true)](https://github.com/adityachauhan564)
 
 </div>
+
+*GitHub's native contribution calendar on this profile is the source of truth for contribution activity. Third-party cards may occasionally be unavailable.*
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Ranked in the top 0.5% on CodeChef, Global Rank 148 (2022).
-- 🏅 Best Team Award – Tata Consultancy Services (October 2024).
-- 📈 Improved unit test coverage from 25% to 89% in enterprise applications.
-- 🔧 Resolved 50+ production defects.
-- ⚡ Optimized 20+ SQL queries.
+- **CodeChef:** Global Rank 148; ranked in the top 0.5% (November 2022).
+- **TCS:** Best Team Award (October 2024).
+- Improved unit test coverage from **25% to 89%**.
+- Resolved **50+ production defects**.
+- Optimized **20+ SQL queries**.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology – Information Technology**
-
-Galgotias College of Engineering and Technology, India
-
+**Bachelor of Technology — Information Technology**  
+Galgotias College of Engineering and Technology, India  
 2018 – 2022
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-chauhan009/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/adityachauhan564">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.dazzleitservices.com/">
-  <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
 <br/><br/>
 
-**💬 Let's connect, collaborate and build something impactful!**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+**Open to conversations about Java Backend, Cloud and DevOps engineering.**
 
 </div>
